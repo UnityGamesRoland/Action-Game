@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 9decf3431fbc7304593c5647f65e6d9c
+timeCreated: 1513012402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ajt__1
+    100002: ajt__2
+    100004: asztal
+    100006: //RootNode
+    100008: pillow
+    100010: polc_1
+    100012: polc_2
+    100014: polc_3
+    100016: r_cs_1
+    100018: r_cs_2
+    100020: r_cs_3
+    100022: room
+    100024: sz_k
+    100026: wc
+    100028: zuhany
+    400000: ajt__1
+    400002: ajt__2
+    400004: asztal
+    400006: //RootNode
+    400008: pillow
+    400010: polc_1
+    400012: polc_2
+    400014: polc_3
+    400016: r_cs_1
+    400018: r_cs_2
+    400020: r_cs_3
+    400022: room
+    400024: sz_k
+    400026: wc
+    400028: zuhany
+    2300000: ajt__1
+    2300002: ajt__2
+    2300004: asztal
+    2300006: pillow
+    2300008: polc_1
+    2300010: polc_2
+    2300012: polc_3
+    2300014: r_cs_1
+    2300016: r_cs_2
+    2300018: r_cs_3
+    2300020: room
+    2300022: sz_k
+    2300024: wc
+    2300026: zuhany
+    3300000: ajt__1
+    3300002: ajt__2
+    3300004: asztal
+    3300006: pillow
+    3300008: polc_1
+    3300010: polc_2
+    3300012: polc_3
+    3300014: r_cs_1
+    3300016: r_cs_2
+    3300018: r_cs_3
+    3300020: room
+    3300022: sz_k
+    3300024: wc
+    3300026: zuhany
+    4300000: ajt__2
+    4300002: polc_3
+    4300004: polc_2
+    4300006: r_cs_3
+    4300008: r_cs_2
+    4300010: wc
+    4300012: ajt__1
+    4300014: r_cs_1
+    4300016: zuhany
+    4300018: polc_1
+    4300020: pillow
+    4300022: asztal
+    4300024: sz_k
+    4300026: room
+    6400000: ajt__1
+    6400002: ajt__2
+    6400004: asztal
+    6400006: pillow
+    6400008: polc_1
+    6400010: polc_2
+    6400012: polc_3
+    6400014: r_cs_1
+    6400016: r_cs_2
+    6400018: r_cs_3
+    6400020: room
+    6400022: sz_k
+    6400024: wc
+    6400026: zuhany
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__bed
+    second: {fileID: 2100000, guid: a29b217d27600ee49804b9be4c9ddde3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__matrac_001
+    second: {fileID: 2100000, guid: c7a8c580129dc254bbe0f142c84e2189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__pillow_001
+    second: {fileID: 2100000, guid: a2b6be1d46f095a45a1f7d5e18d78fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__asztal
+    second: {fileID: 2100000, guid: bbf8f176c9a36f34993601c2c61c432f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__sz_k
+    second: {fileID: 2100000, guid: 82db5b2f853669b42b352988c3784c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroom__room
+    second: {fileID: 2100000, guid: 5fcd437d3ed494f449a8e5df908cdbd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f_m_1__r_cs
+    second: {fileID: 2100000, guid: 830490bb70d666e469433821605b1631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fa__ajt_
+    second: {fileID: 2100000, guid: efa8c7752e66f3d468f4ca4db95b89ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fa__polc
+    second: {fileID: 2100000, guid: 2be0733713c68264bbc4e8ef7c69ac0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor__room
+    second: {fileID: 2100000, guid: 36d72c67311821e41bdbce10af08e634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kilincs__ajt_
+    second: {fileID: 2100000, guid: d0e004bc800de654dbe99f0dbaf8280d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcel_n__wc
+    second: {fileID: 2100000, guid: 4fcfdde50fce50f408f11d26b2d1e559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcel_n__zuhany
+    second: {fileID: 2100000, guid: 0c73eb96a773a444d9c0432d8d583d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall__room
+    second: {fileID: 2100000, guid: c7075ed6a1103174f89a3cb2e56894a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
